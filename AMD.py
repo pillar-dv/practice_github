@@ -1,0 +1,2 @@
+print("AMD")
+print("YOUd")
